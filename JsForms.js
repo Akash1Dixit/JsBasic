@@ -1,6 +1,7 @@
 <html>
 <head>
-  <title>Form Validation</title>
+
+  <title>Form Validation 1</title>
   <script type="text/javascript">
     var divs = new Array();
     divs[0] = "errFirst";
